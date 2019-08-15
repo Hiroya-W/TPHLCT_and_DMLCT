@@ -1,5 +1,6 @@
 /data
 /.ipynb_checkpoints
+/Mono
 canvas_uint8.png
 canvas.png
 lenna_F_idct.png
