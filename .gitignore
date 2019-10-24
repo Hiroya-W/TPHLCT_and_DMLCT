@@ -1,6 +1,10 @@
-/data
 /.ipynb_checkpoints
+/color
+/data
 /Mono
+/Ori
+/output
+
 canvas_uint8.png
 canvas.png
 lenna_F_idct.png
