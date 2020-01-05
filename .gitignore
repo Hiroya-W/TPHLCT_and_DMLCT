@@ -4,6 +4,8 @@
 /Mono
 /Ori
 /output
+/venv
+/.vscode
 
 canvas_uint8.png
 canvas.png
